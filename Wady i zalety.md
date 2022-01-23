@@ -1,7 +1,12 @@
 # Pros and cons of Jira/Confluence/Flare documentation
-- [Jira](##Jira)
-- [Confluence](##CONFLUENCE)
-- [Flare](##FLARE)
+**Table of contents**
+<!-- MarkdownTOC -->
+
+- [Pros and cons of Jira/Confluence/Flare documentation](#pros-and-cons-of-jiraconfluenceflare-documentation)
+  - [Jira](#jira)
+  - [CONFLUENCE](#confluence)
+  - [FLARE](#flare)
+  
 
 
 
