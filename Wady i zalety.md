@@ -3,14 +3,14 @@
 <!-- MarkdownTOC -->
 
 - [Pros and cons of Jira/Confluence/Flare documentation](#pros-and-cons-of-jiraconfluenceflare-documentation)
-  - [Jira](#jira)
+  - [JIRA](#jira)
   - [CONFLUENCE](#confluence)
   - [FLARE](#flare)
   
 
 
 
-## Jira 
+## JIRA 
 **PROS**
 
 1. What caught my eye was the "community" section, where users can ask questions and exchange tips.
