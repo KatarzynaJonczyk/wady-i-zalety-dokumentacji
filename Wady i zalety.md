@@ -29,12 +29,14 @@ https://support.atlassian.com/jira-software-cloud/docs/learn-how-jira-products-w
 **PROS**
 
 1. Instructions in the form of animations/screen recordings (Section: What is Confluence Cloud?).
+2. Under each article is a question about whether it was helpful or not. There is also an option to give feedback. So, collecting feedback on documentation (what is important for a technical writer).
 
 
 **CONS**
 
 1. Same observation as in Jira: When you open the page on the big screen and click on the list, it displays a list that is very offset from the left edge. In general, the site doesn't adjust very well to a larger resolution. 
 2. It is a shame that the instruction in the form of recordings/animations cannot be stopped. When you watch it, you don't know when the recording begins and when it ends. 
+3. Listed Confluence Cloud plans are not as clear as if they were tabulated. This would make it easier to compare individual plans. [-click-](https://support.atlassian.com/confluence-cloud/docs/learn-about-confluence-cloud-plans/)
 
 ## FLARE
 **PROS**
